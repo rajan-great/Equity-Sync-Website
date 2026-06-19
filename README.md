@@ -10,6 +10,7 @@ Equity Sync is a modern web application for managing personal finances. It provi
 - **Financial Goals**: Set savings targets and track progress
 - **Bill Reminders**: Never miss a payment with automated reminders
 - **Secure**: Your financial data is protected with bank-level security
+- **GitIgnore**: Having the most 
 
 ## Tech Stack
 
